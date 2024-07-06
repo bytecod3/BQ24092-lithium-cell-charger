@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=GND Pin=J1-A1
+Removed Pin From Net: NetName=NetC1_1 Pin=J1-A4
+Removed Pin From Net: NetName=NetJ1_A5 Pin=J1-A5
+Removed Pin From Net: NetName=NetC1_1 Pin=J1-A9
+Removed Pin From Net: NetName=GND Pin=J1-A12
+Removed Pin From Net: NetName=NetJ1_A5 Pin=R2-2
+Added Component: Designator=J1(FP-217175-0001-MFG)
+Added Component: Designator=R6(RESC2013X70X40LL20T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ-6GEYJ512V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJ1_A5 Pin=J1-A5
+Added Pin To Net: NetName=NetC1_1 Pin=J1-A9
+Added Pin To Net: NetName=GND Pin=J1-A12
+Added Pin To Net: NetName=NetC1_1 Pin=J1-B9
+Added Pin To Net: NetName=GND Pin=J1-B12
+Added Pin To Net: NetName=GND Pin=R6-1
+Added Pin To Net: NetName=NetJ1_A5 Pin=R6-2
+Added Pin To Net: NetName=NetJ1_B5 Pin=J1-B5
+Added Pin To Net: NetName=NetJ1_B5 Pin=R2-2
+Added Net: Name=NetJ1_B5
+Added Member To Class: ClassName=main Member=Component R6 5.1k
